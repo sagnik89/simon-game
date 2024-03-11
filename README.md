@@ -1,2 +1,2 @@
 # simon-game
-This is the simon game i made with the help of Web Dev Course By Angela Yu
+This is the simon game. It is a memory based game. 
